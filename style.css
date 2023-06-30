@@ -1,0 +1,47 @@
+
+@media  (max-width: 600px) {
+
+#intro .row {
+    text-align: center;
+}
+
+#intro .row .btn {
+    width: 100%;
+}
+
+#intro .row p {
+    font-size: 1em;
+}
+
+.pre-footer .form {
+    padding: 0 50px 50px;
+ 
+}
+.pre-footer .btn {
+       width: 100%;
+}
+
+.testimonials .row  h2 {
+    font-size: 1em;
+    text-align: center;
+}
+
+.testimonials .row p {
+    font-size: .9em;
+    
+}
+
+.testimonials .row .link {
+    text-align: center;
+}
+
+.pre-footer .row h2{
+    font-size: 1.4em;
+}
+
+.pre-footer .row p {
+    font-size: .8em;
+}
+  
+}
+
